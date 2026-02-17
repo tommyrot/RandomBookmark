@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Open a random Bookmark.",
   "author": "tommyrot",
-  "homepage_url": "https://github.com/tommyrot/randombookmark",
+  "homepage_url": "https://github.com/tommyrot/RandomBookmark",
   "browser_specific_settings": {
     "gecko": {
       "data_collection_permissions": {
