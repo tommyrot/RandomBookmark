@@ -5,6 +5,14 @@
   "description": "Open a random Bookmark.",
   "author": "tommyrot",
   "homepage_url": "https://github.com/tommyrot/randombookmark",
+  "browser_specific_settings": {
+    "gecko": {
+      "data_collection_permissions": {
+        "required": ["none"],
+        "optional": []
+      }
+    }
+  },
   "permissions": ["bookmarks", "storage"],
   "background": {
     "scripts": ["background.js"]
