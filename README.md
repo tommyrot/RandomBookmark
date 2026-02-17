@@ -36,7 +36,7 @@ You can exclude (or include) specific bookmarks by keyword. Open the filter sett
 
 There are two modes:
 
-- **Blacklist** (default) -- bookmarks matching any listed keyword are excluded.
-- **Whitelist** -- only bookmarks matching a listed keyword are considered.
+- **Blacklist** (default) -- bookmarks matching any listed keywords are excluded.
+- **Whitelist** -- only bookmarks matching a listed keywords are included.
 
 Enter one keyword per line. Matching is case-insensitive and checks the full URL, so `youtu` will match `https://www.youtube.com/watch?v=abc123` etc.
