@@ -1,3 +1,5 @@
+<img src="../icon.svg" width="96px">
+
 # Random Bookmark
 
 Tiny **Firefox extension** that opens a random Bookmark in your current tab with a single click ***on the icon in the toolbar***. It has a word filter in order to black/whitelist selected URLs.
