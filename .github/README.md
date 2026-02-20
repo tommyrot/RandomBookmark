@@ -17,7 +17,7 @@ No access to your browsing data, no network requests, no background processes or
 
 ## Install
 
-Easiest is to grab from xxx.
+Easiest is to grab from https://addons.mozilla.org/en-US/firefox/addon/random-bookmark/
 
 ### Making the button visible on the toolbar
 
